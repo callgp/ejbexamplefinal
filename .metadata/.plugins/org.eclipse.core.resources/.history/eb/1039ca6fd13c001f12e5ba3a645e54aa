@@ -1,0 +1,10 @@
+package com.MsgServer;
+
+import jakarta.ejb.Remote;
+
+@Remote
+public interface ExampleServerRemote {
+
+	String getMsg();
+
+}

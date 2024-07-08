@@ -1,0 +1,11 @@
+import java.util.Properties;
+
+public class ClientApp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       System.out.println("client app started");
+       Properties props=new Properties()
+	}
+
+}
